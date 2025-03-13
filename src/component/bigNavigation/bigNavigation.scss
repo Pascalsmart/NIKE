@@ -1,0 +1,362 @@
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 320PX TILL 768PX*/
+@media only screen and (min-width:320px) and (max-width:768px){
+    #topmenu{
+        display:none;
+    }
+    #downmenu{
+        display:none;
+
+    }
+}
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 769PX TILL 1024PX*/
+
+@media only screen and (min-width:769px) and (max-width:1024px){
+    #topmenu{
+
+        height:2.3rem;
+        width:100%;
+        background:#DDDDDD;
+    
+        #fix{
+    
+            width:93%;
+            margin:0 auto;
+            height:2.3rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            #air{
+                height:20px;
+                width:20px
+            }
+    
+            #menus{
+                width:33%;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+               
+    
+                p{
+                    font-size: 0.8rem;
+                    font-weight:500;
+                    border-right:1px solid black;
+                    padding: 0 4% 0 0;
+                    height:0.8rem;
+                    display:flex;
+                    justify-content: center;
+                    align-items:center;
+    
+                }
+                p:nth-child(4){
+                    border:none;
+                }
+            }
+        }
+    
+    }
+
+    #downmenu{
+
+        background:white;
+        width:100%;
+        height:3.7rem;
+        
+
+        #down-fix{
+
+            width:93%;
+            margin:0 auto;
+            height:3.7rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+
+            #nikee{
+
+                width:57px;
+                height:57px;
+            }
+
+            #collection{
+                text-align:center;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                width:40%;
+                padding:0 0 0 5%;
+                font-size: 0.7rem;
+
+            }
+
+            #down-menus{
+                width:28%;
+                height:3rem;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+
+                #srch{
+                    border:0.1rem solid black;;
+                    background:white;
+                    height:2rem;
+                    border-radius: 1rem;
+                    padding: 0 0 0 5%;
+                    width:60%;
+                    display:flex;
+                    align-items: center;
+                    font-weight: 600;
+
+                    #searchicon{
+                        height:20px;
+                        width:20px
+                    }
+
+                    #shift{
+                        margin:0 0 0 4%;
+                    }
+                }
+            }
+        }
+        
+
+
+
+    }
+}
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 1025PX TILL 1200PX*/
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+
+    #topmenu{
+
+        height:2.3rem;
+        width:100%;
+        background:#DDDDDD;
+    
+        #fix{
+    
+            width:93%;
+            margin:0 auto;
+            height:2.3rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            #air{
+                height:20px;
+                width:20px
+            }
+    
+            #menus{
+                width:26%;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+               
+    
+                p{
+                    font-size: 0.8rem;
+                    font-weight:700;
+                    border-right:1px solid black;
+                    padding: 0 4% 0 0;
+                    height:0.8rem;
+                    display:flex;
+                    justify-content: center;
+                    align-items:center;
+    
+                }
+                p:nth-child(4){
+                    border:none;
+                }
+            }
+        }
+    
+    }
+
+    #downmenu{
+
+        background:white;
+        width:100%;
+        height:3.7rem;
+        
+
+        #down-fix{
+
+            width:93%;
+            margin:0 auto;
+            height:3.7rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+
+            #nikee{
+
+                width:57px;
+                height:57px;
+            }
+
+            #collection{
+                text-align:center;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                width:40%;
+                padding:0 0 0 5%;
+                font-size: 0.7rem;
+
+            }
+
+            #down-menus{
+                width:24%;
+                height:3rem;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+
+                #srch{
+                    border:0.1rem solid black;;
+                    background:white;
+                    height:2rem;
+                    border-radius: 1rem;
+                    padding: 0 0 0 5%;
+                    width:60%;
+                    display:flex;
+                    align-items: center;
+                    font-weight: 600;
+
+                    #searchicon{
+                        height:20px;
+                        width:20px
+                    }
+
+                    #shift{
+                        margin:0 0 0 4%;
+                    }
+                }
+            }
+        }
+        
+
+
+
+    }
+
+
+}
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 1201PX TILL ...*/
+
+@media only screen and (min-width:1201px){
+
+    #topmenu{
+
+        height:2.3rem;
+        width:100%;
+        background:#DDDDDD;
+    
+        #fix{
+    
+            width:93%;
+            margin:0 auto;
+            height:2.3rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            #air{
+                height:20px;
+                width:20px
+            }
+    
+            #menus{
+                width:21%;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+               
+    
+                p{
+                    font-size: 0.8rem;
+                    font-weight:500;
+                    border-right:1px solid black;
+                    padding: 0 4% 0 0;
+                    height:0.8rem;
+                    display:flex;
+                    justify-content: center;
+                    align-items:center;
+    
+                }
+                p:nth-child(4){
+                    border:none;
+                }
+            }
+        }
+    
+    }
+
+    #downmenu{
+
+        background:white;
+        width:100%;
+        height:3.7rem;
+
+        #down-fix{
+
+            width:93%;
+            margin:0 auto;
+            height:3.7rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+
+            #nikee{
+
+                width:57px;
+                height:57px;
+            }
+
+            #collection{
+                text-align:center;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                width:40%;
+                padding:0 0 0 5%;
+                font-size: 0.7rem;
+
+            }
+
+            #down-menus{
+                width:17%;
+                height:3rem;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+
+                #srch{
+                    border:0.1rem solid black;;
+                    background:white;
+                    height:2rem;
+                    border-radius: 1rem;
+                    padding: 0 0 0 5%;
+                    width:60%;
+                    display:flex;
+                    align-items: center;
+                    font-weight: 600;
+
+                    #searchicon{
+                        height:20px;
+                        width:20px
+                    }
+
+                    #shift{
+                        margin:0 0 0 4%;
+                    }
+                }
+            }
+        }
+        
+
+
+
+    }
+}
+

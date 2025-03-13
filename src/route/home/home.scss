@@ -1,0 +1,1022 @@
+/*THIS IS THE SYLING FOR DEVICE FROM 320PX TO 480PX*/
+@media only screen and (min-width:320px) and (max-width:480px){
+    #vid{
+        width:100%;
+        height:18rem;
+        object-fit: fill;
+        
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 2rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0.5rem 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 0.7rem;
+            margin: 0.2rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.2rem;
+            width: 20%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 1.5rem 0;
+            text-align: center;
+            align-items: center;
+
+        }
+        
+     
+    }
+    #p-category{
+        width:92%;
+        display:block;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height:auto;
+        margin:0 auto 1rem auto;
+    }
+
+    #je{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 1.5rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0.5rem 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 0.7rem;
+            margin: 0.2rem 0 0 0;
+        }
+        h4{
+            font-size: 0.7rem;
+        }
+    }  
+    #img-carousel{
+
+        width:100%;
+        height:19rem;
+        position:relative;
+        margin:1.4rem 0 0 0;
+
+        img{
+
+            width:100%;
+            height:100%;
+        }
+
+        #ovr{
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0;
+            left:0;
+            background:#00000098;
+            z-index:2;
+
+            h3{
+                color:white;
+                margin:13rem auto 0 auto;
+                width:80%;
+                text-align: center;
+                
+            }
+
+            h1{
+                color:white;
+                width:80%;
+                text-align:center;
+                margin:0 auto;
+                font-size:2.2rem;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+
+            h2{
+                color:white;
+                width:80%;
+                text-align: center;
+                margin:0 auto;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 0.7rem;
+            }
+        }
+    }
+    #wet{
+        font-size: 0.8rem;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 3rem 0 0 4%;
+    }
+
+    #real{
+        margin:2rem 0 0 0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+        #logo{
+
+            width:95px;
+            height:40px;
+            
+
+
+        }
+    }
+    #hood{
+        display: flex;
+        margin: 0.6rem auto 0 auto;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width:96%;
+        height:100%;
+        
+       
+        
+
+        h3{
+            
+            width: 25%;
+            height: 1rem;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 0.8rem;
+        
+        }
+        .fly{
+            margin-right: 0.8rem;
+        }
+        
+
+
+    }
+
+}
+
+
+
+
+
+
+/*THIS IS THE SYLING FOR DEVICE FROM 481PX TO 600PX*/
+@media only screen and (min-width:481px) and (max-width:600px){
+    #vid{
+        width:100%;
+        height:20rem;
+        object-fit: fill;
+        
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 2.7rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 0.7rem;
+            margin: 0.5rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.2rem;
+            width: 13%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 1.5rem 0;
+        }
+        
+     
+    }
+    #p-category{
+        width:90%;
+        display:block;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height:auto;
+        margin:0 auto 1.3rem auto;
+        
+    }
+
+    #je{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 2rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: 0 0 0 0;
+            
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 0.7rem;
+            margin: 0.5rem 0 0 0;
+        }
+        h4{
+            font-size: 0.8rem;
+        }
+    }
+    #img-carousel{
+
+        width:100%;
+        height:25rem;
+        position:relative;
+        margin:1.6rem 0 0 0;
+
+        img{
+
+            width:100%;
+            height:100%;
+        }
+
+        #ovr{
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0;
+            left:0;
+            background:#00000098;
+            z-index:2;
+
+            h3{
+                color:white;
+                margin:16rem auto 0 auto;
+                width:80%;
+                text-align: center;
+                
+            }
+
+            h1{
+                color:white;
+                width:80%;
+                text-align:center;
+                margin:0 auto;
+                font-size:3.3rem;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+
+            h2{
+                color:white;
+                width:80%;
+                text-align: center;
+                margin:0 auto;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 1.1rem;
+            }
+        }
+    }
+    #wet{
+        font-size: 1.1rem;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 4rem 0 0 4%;
+    }
+    #real{
+        margin:0.8rem 0 0 0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+        #logo{
+
+            width:95px;
+            height:60px;
+            
+
+
+        }
+    }
+    #hood{
+        display: flex;
+        margin: 0.6rem 0 0 0;
+        justify-content: center;
+        align-items: center;
+    text-align: center;
+        
+
+        h3{
+            
+            width: 12%;
+            height: 1rem;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 0.8rem;
+        
+        }
+        .fly{
+            margin-right: 0.8rem;
+        }
+        
+
+
+    }
+}
+
+
+
+
+
+/*THIS IS THE SYLING FOR DEVICE FROM 600PX TO 768PX*/
+@media only screen and (min-width:600px) and (max-width:768px){
+    #vid{
+        width:100%;
+        height:18rem;
+        object-fit: cover;
+        
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 2.7rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 1rem;
+            margin: 0.5rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.2rem;
+            width: 10.5%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 1.5rem 0;
+        }
+        
+     
+    }
+    #p-category{
+        width:90%;
+        height:90rem;
+        margin:0 auto 2rem auto;
+    }
+    #je{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 2rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: 0.1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 0.8rem;
+            margin: 0.5rem 0 0 0;
+        }
+    }  
+    #img-carousel{
+
+        width:100%;
+        height:29rem;
+        position:relative;
+        margin:1.5rem 0 0 0;
+
+        img{
+
+            width:100%;
+            height:100%;
+        }
+
+        #ovr{
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0;
+            left:0;
+            background:#00000098;
+            z-index:2;
+
+            h3{
+                color:white;
+                margin:20rem auto 0 auto;
+                width:80%;
+                text-align: center;
+                
+            }
+
+            h1{
+                color:white;
+                width:80%;
+                text-align:center;
+                margin:0 auto;
+                font-size:3.3rem;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+
+            h2{
+                color:white;
+                width:80%;
+                text-align: center;
+                margin:0 auto;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 1.3rem;
+            }
+        }
+    }
+    #wet{
+        font-size: 1.2rem;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 4rem 0 0 3.5%;
+    }
+
+    #real{
+        margin:1.8rem 0 0 0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+        #logo{
+
+            width:95px;
+            height:40px;
+            
+
+
+        }
+    }
+    #hood{
+        display: flex;
+        margin: 0.6rem 0 0 0;
+        justify-content: center;
+        align-items: center;
+    text-align: center;
+        
+
+        h3{
+            
+            width: 12%;
+            height: 1rem;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 0.8rem;
+        
+        }
+        .fly{
+            margin-right: 0.8rem;
+        }
+        
+
+
+    }
+}
+
+
+
+
+/* THIS IS THE STYLING FOR DEVICE FOR 769PX 1024PX*/
+@media only screen and (min-width:769px) and (max-width:1024px){
+    #vid{
+        width:100%;
+        height:22.5rem;
+        object-fit: cover;
+        
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 3rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 1rem;
+            margin: 0.5rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.2rem;
+            width: 8.5%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 1.5rem 0;
+        }
+        
+     
+    }
+    #p-category{
+        width:100%;
+        display:flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height:41.2rem;
+        margin:2rem 0 0 0;
+    }
+
+    #je{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 3rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 1rem;
+            margin: 0.5rem 0 0 0;
+        }
+    }
+    #img-carousel{
+
+        width:100%;
+        height:33rem;
+        position:relative;
+        margin:1.5rem 0 0 0;
+
+        img{
+
+            width:100%;
+            height:100%;
+        }
+
+        #ovr{
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0;
+            left:0;
+            background:#00000098;
+            z-index:2;
+
+            h3{
+                color:white;
+                margin:24rem auto 0 auto;
+                width:80%;
+                text-align: center;
+                
+            }
+
+            h1{
+                color:white;
+                width:80%;
+                text-align:center;
+                margin:0 auto;
+                font-size:3.5rem;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+
+            h2{
+                color:white;
+                width:80%;
+                text-align: center;
+                margin:0 auto;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+        }
+    }
+    #wet{
+        font-size: 1.2rem;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 4rem 0 0 3%;
+    }
+    #real{
+        margin:1rem 0 0 0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+        #logo{
+
+            width:100px;
+            height:97px;
+            
+
+
+        }
+    }
+    #hood{
+        display: flex;
+        margin: 0.6rem 0 0 0;
+        justify-content: center;
+        align-items: center;
+    text-align: center;
+        
+
+        h3{
+            
+            width: 12%;
+            height: 1rem;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 1rem;
+        
+        }
+        .fly{
+            margin-right: 1rem;
+        }
+        
+
+
+    }
+
+
+}
+
+
+
+
+/* THIS IS THE STYLING FOR DIVICE WITH FROM 1025PX TILL 1200PX*/
+@media only screen and (min-width:1025px) and (max-width:1200px ){
+    #vid{
+        width:100%;
+        height:23rem;
+        object-fit: cover;
+        
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 4rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 1rem;
+            margin: 0.5rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.4rem;
+            width: 6.5%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 1.5rem 0;
+        }
+        
+     
+    }
+
+    #p-category{
+        width:100%;
+        display:flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height:51.5rem;
+        margin:2rem 0 0 0;
+    }
+
+        #je{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            
+    
+            h1{
+                font-size: 4rem;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-weight: bold;
+                margin: -1rem 0 0 0;
+    
+            }
+            h5{
+                font-family:sans-serif;
+                font-size: 1rem;
+                margin: 0.5rem 0 0 0;
+            }
+        }
+    
+    #img-carousel{
+
+        width:100%;
+        height:40rem;
+        position:relative;
+        margin:1.3rem 0 0 0;
+
+        img{
+
+            width:100%;
+            height:100%;
+        }
+
+        #ovr{
+            width:100%;
+            height:100%;
+            position:absolute;
+            top:0;
+            left:0;
+            background:#00000098;
+            z-index:2;
+
+            h3{
+                color:white;
+                margin:30rem auto 0 auto;
+                width:80%;
+                text-align: center;
+                
+            }
+
+            h1{
+                color:white;
+                width:80%;
+                text-align:center;
+                margin:0 auto;
+                font-size:3.5rem;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+
+            h2{
+                color:white;
+                width:80%;
+                text-align: center;
+                margin:0 auto;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+        }
+    }
+    #wet{
+        font-size: 1.4rem;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin: 3.5rem 0 0 3%;
+    }
+
+    #real{
+        margin:2.4rem 0 0 0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+
+        #logo{
+
+            width:110px;
+            height:40px;
+            
+
+
+        }
+    }
+    #hood{
+        display: flex;
+        margin: 0.6rem 0 0 0;
+        justify-content: center;
+        align-items: center;
+    text-align: center;
+        
+
+        h3{
+            
+            width: 8.9%;
+            height: 1rem;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 1rem;
+        
+        }
+        .fly{
+            margin-right: 1rem;
+        }
+        
+
+
+    }
+
+}
+
+
+
+
+
+/*THIS IS THE STYLING FRO DEVICE WITH WIDTH FROM 1201PX TILL ....*/
+
+@media only screen and (min-width:1201px){
+
+    #vid{
+        width:100%;
+        height:30rem;
+       object-fit: cover;
+    }
+    #jet{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        
+
+        h1{
+            font-size: 4rem;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+            margin: -1rem 0 0 0;
+
+        }
+        h5{
+            font-family:sans-serif;
+            font-size: 1rem;
+            margin: 0.5rem 0 0 0;
+        }
+        #heat{
+            border-radius: 1.2rem;
+            background: black;
+            color: white;
+            height: 2.5rem;
+            width: 5.5%;
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 1.3rem 0 2rem 0;
+        }
+        
+     
+    }
+
+    #p-category{
+        width:100%;
+        display:flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        height:61.5rem;
+        margin:2rem 0 0 0;
+    }
+
+        #je{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            
+    
+            h1{
+                font-size: 4rem;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-weight: bold;
+                margin: -1rem 0 0 0;
+    
+            }
+            h5{
+                font-family:sans-serif;
+                font-size: 1rem;
+                margin: 0.5rem 0 0 0;
+            }
+
+            
+        }
+
+        #img-carousel{
+
+            width:100%;
+            height:45rem;
+            position:relative;
+            margin:3rem 0 0 0;
+
+            img{
+
+                width:100%;
+                height:100%;
+            }
+
+            #ovr{
+                width:100%;
+                height:100%;
+                position:absolute;
+                top:0;
+                left:0;
+                background:#000000a3;
+                z-index:2;
+
+                h3{
+                    color:white;
+                    margin:35rem auto 0 auto;
+                    width:80%;
+                    text-align: center;
+                    
+                }
+
+                h1{
+                    color:white;
+                    width:80%;
+                    text-align:center;
+                    margin:0 auto;
+                    font-size:3.5rem;
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                }
+
+                h2{
+                    color:white;
+                    width:80%;
+                    text-align: center;
+                    margin:0 auto;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                }
+            }
+
+
+
+        }
+        #wet{
+            font-size: 1.3rem;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            margin: 3.5rem 0 0 2%;
+        }
+        
+        #real{
+            margin:5rem 0 0 0;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+
+            #logo{
+
+                width:100px;
+                height:65px;
+                
+
+
+            }
+        }
+
+        #hood{
+            display: flex;
+            margin: 1rem 0 0 0;
+            justify-content: center;
+            align-items: center;
+        text-align: center;
+            
+
+            h3{
+                width: 6%;
+                height: 1rem;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-size: 1rem;
+            }
+            .fly{
+                margin-right: 1rem;
+            }
+            
+
+
+        }
+        
+}

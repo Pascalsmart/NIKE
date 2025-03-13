@@ -1,0 +1,177 @@
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 320PX TILL 768PX*/
+@media only screen and (min-width:769px){
+    #headmenu{
+        display:none;
+    }
+}
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 320PX TILL 768PX*/
+@media only screen and (min-width:320px) and (max-width:480px){
+
+#headmenu{
+
+
+    height:4rem;
+    width:100%;
+    background:white;
+
+    #stick{
+
+        width:90%;
+        margin:0 auto;
+        height:2.3rem;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        
+
+        #sky{
+            height:60px;
+            width:60px;
+            margin-top:20px;
+        }
+
+        #skit{
+            width:45%;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px 0 0 0;
+        
+          
+            #wet{
+                height:20px;
+                width:20px;
+        
+            }
+            .heat{
+                height:25px;
+                width:25px;
+                padding-right: 7.5px;
+                
+            }
+            .heat:nth-child(4){
+                padding:none; 
+           
+          }
+    }
+}   
+} 
+} 
+
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH 481PX TILL 599PX*/
+
+@media only screen and (min-width:481px) and (max-width:600px){
+    #headmenu{
+
+
+        height:4rem;
+        width:100%;
+        background:white;
+    
+        #stick{
+    
+            width:90%;
+            margin:0 auto;
+            height:2.3rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            
+    
+            #sky{
+                height:60px;
+                width:60px;
+                margin-top:20px;
+            }
+    
+            #skit{
+                width:30%;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+                margin: 20px 0 0 0;
+            
+              
+                #wet{
+                    height:20px;
+                    width:20px;
+            
+                }
+                .heat{
+                    height:25px;
+                    width:25px;
+                    padding-right: 7.5px;
+                    
+                }
+                .heat:nth-child(4){
+                    padding:none; 
+               
+              }
+        }
+    }   
+    } 
+
+
+}
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 600PX TILL 768PX*/
+
+@media only screen and (min-width:600px) and (max-width:768px){
+
+
+    #headmenu{
+
+
+        height:4rem;
+        width:100%;
+        background:white;
+    
+        #stick{
+    
+            width:90%;
+            margin:0 auto;
+            height:2.3rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            
+    
+            #sky{
+                height:60px;
+                width:60px;
+                margin-top:20px;
+            }
+    
+            #skit{
+                width:30%;
+                display:flex;
+                justify-content: space-between;
+                align-items: center;
+                margin: 20px 0 0 0;
+            
+              
+                #wet{
+                    height:20px;
+                    width:20px;
+            
+                }
+                .heat{
+                    height:25px;
+                    width:25px;
+                    padding-right: 7.5px;
+                    
+                }
+                .heat:nth-child(4){
+                    padding:none; 
+               
+              }
+        }
+    }   
+    } 
+}
+
+
+
+
+        

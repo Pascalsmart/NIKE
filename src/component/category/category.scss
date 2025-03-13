@@ -1,0 +1,415 @@
+/*THIS IS THE SYLING FOR DEVICE FROM 320PX TO 480PX*/
+@media only screen and (min-width:320px) and (max-width:480px){
+    .mycate{
+
+        width:100%;
+        height:13rem;
+        position:relative;
+        margin: 0.5rem 0 1rem 0;
+ 
+
+        img{
+            width:100%;
+            height:100%;
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:7rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 5px;
+
+            h2{
+                font-size: 0.8rem;
+            }
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:1.5rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:0.7rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.5rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+}
+
+
+
+
+
+/*THIS IS THE SYLING FOR DEVICE FROM 481PX TO 600PX*/
+@media only screen and (min-width:481px) and (max-width:600px){
+    .mycate{
+
+        width:100%;
+        height:19rem;
+        position:relative;
+        margin: 1rem 0 1rem 0rem;
+ 
+
+        img{
+            width:100%;
+            height:100%
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:13rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 13px;
+
+            h2{
+                font-size: 1.3rem;
+            }
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:2.1rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:1rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.6rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+}
+
+
+
+
+
+/*THIS IS THE SYLING FOR DEVICE FROM 600PX TO 768PX*/
+@media only screen and (min-width:600px) and (max-width:768px){
+    .mycate{
+
+        width:100%;
+        height:22rem;
+        position:relative;
+        margin: 1rem 0 1rem 0;
+ 
+
+        img{
+            width:100%;
+            height:100%;
+        
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:13rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 15px;
+
+            h2{
+                font-size: 1.5rem;
+            }
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:2.5rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:1rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.9rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+}
+
+
+
+
+
+
+/* THIS IS THE STYLING FOR DEVICE FOR 769PX 1024PX*/
+@media only screen and (min-width:769px) and (max-width:1024px){
+    .mycate{
+
+        width:49.5%;
+        height:20rem;
+        position:relative;
+ 
+
+        img{
+            width:100%;
+            height:100%;
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:13rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 15px;
+
+            h2{
+                font-size: 1rem;
+            }
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:2.5rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:1rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.9rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+}
+
+
+
+
+
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH 1025PX TILL 1200PX*/
+
+@media only screen and (min-width:1025px) and (max-width:1200px){
+
+    .mycate{
+
+        width:49.5%;
+        height:25rem;
+        position:relative;
+ 
+
+        img{
+            width:100%;
+            height:100%;
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:17rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 15px;
+
+            h2{
+                font-size:1.3rem;
+            }
+
+           
+
+        
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:2.5rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:1rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.9rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+
+
+    
+}
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH 1201PX TILL ...*/
+
+@media only screen and (min-width:1201px){
+
+    .mycate{
+
+        width:49.5%;
+        height:30rem;
+        position:relative;
+     
+      
+ 
+
+        img{
+            width:100%;
+            height:100%;
+            
+        }
+       .overlay{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+        height:100%;
+        background:#00000081;
+        z-index:1;
+
+        #rest{
+            display: flex;
+            justify-content: space-between;
+            width:90%;
+            margin:22rem auto;
+            height:8rem;
+            align-items: center;
+            color:white;
+            line-height: 15px;
+
+            #slec{
+                button{
+                    background:#ddd;
+                    height:2.5rem;
+                    color:black;
+                    border:none;
+                    outline:none;
+                    border-radius:1rem;
+                    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    font-size:0.9rem;
+                    font-weight: bold;
+                    display:flex;
+                    align-items: center;
+                    justify-content: center;
+                 
+                }
+            }
+           }
+       }
+       
+   
+      
+
+    
+    }
+
+
+}

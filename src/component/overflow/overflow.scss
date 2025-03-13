@@ -1,0 +1,279 @@
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 320PX TILL 480PX*/
+
+@media only screen and (min-width:320px) and (max-width:480px){
+
+    #p-ovr{
+
+        width:100%;
+        height:10rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:330%;
+            height:10rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.5%;
+                height:9rem;
+
+                img{
+                    width:100%;
+                    height:9rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-2.5rem;
+                    text-align: center;
+                    font-size:0.8rem;
+                }
+            }
+        }
+    }
+
+}
+
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH 481PX TILL 599PX*/
+
+@media only screen and (min-width:481px) and (max-width:600px){
+
+    #p-ovr{
+
+        width:100%;
+        height:13rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:314%;
+            height:13rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.5%;
+                height:12rem;
+
+                img{
+                    width:100%;
+                    height:12rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-2.7rem;
+                    text-align: center;
+                    font-size:0.9rem;
+                }
+            }
+        }
+    }
+
+}
+
+/* THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 600PX TILL 768PX*/
+@media only screen and (min-width:600px) and (max-width:768px){
+    #p-ovr{
+
+        width:100%;
+        height:14rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:314%;
+            height:14rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.5%;
+                height:13rem;
+
+                img{
+                    width:100%;
+                    height:13rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-2.7rem;
+                    text-align: center;
+                    font-size:0.9rem;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH FROM 769PX TILL 1024PX*/
+
+@media only screen and (min-width:769px) and (max-width:1024px){
+    #p-ovr{
+
+        width:100%;
+        height:14rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:223%;
+            height:14rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.2%;
+                height:13rem;
+
+                img{
+                    width:100%;
+                    height:13rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-2.7rem;
+                    text-align: center;
+                    font-size:0.9rem;
+                }
+            }
+        }
+    }
+
+}
+
+/* THIS IS THE STYLING FOR DIVICE WITH FROM 1025PX TILL 1200PX*/
+@media only screen and (min-width:1025px) and (max-width:1200px ){
+
+    #p-ovr{
+
+        width:100%;
+        height:17rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:200%;
+            height:17rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.7%;
+                height:16rem;
+
+                img{
+                    width:100%;
+                    height:16rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-3.1rem;
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+}
+   
+
+
+/*THIS IS THE STYLING FOR DEVICE WITH WIDTH 1201PX TILL ...*/
+
+@media only screen and (min-width:1201px){
+
+    #p-ovr{
+
+        width:100%;
+        height:17rem;
+        background:#e0dfdf;
+        overflow:auto;
+
+        &::-webkit-scrollbar{
+            display:none;
+        }
+
+        #ovr{
+
+            width:150%;
+            height:17rem;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        
+
+
+            .ovr-cont{
+                width:9.7%;
+                height:16rem;
+
+                img{
+                    width:100%;
+                    height:16rem;
+                    border-radius: 0.5rem;
+                }
+
+                h3{
+                    position:relative;
+                    top:-3rem;
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
